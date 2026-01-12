@@ -1,9 +1,3 @@
-# Name: Sareen Mohammad
-# 
-# Student-ID: 203651
-#
-# Rename the file to <sareen>06.py
-#
 
 # useful imports
 import math
