@@ -62,7 +62,6 @@ base_folders = {
         "/Users/hai/Documents/SpecData/Experiment/Group_6/g6/arbp",
     ],
 }
-
 # -------------------------------
 # Load and compute mean/std
 # -------------------------------
